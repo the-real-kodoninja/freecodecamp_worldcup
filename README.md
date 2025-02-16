@@ -1,5 +1,6 @@
 # freecodecamp_worldcup
 
+![World Cup Database Complete](https://github.com/the-real-kodoninja/freecodecamp_worldcup/blob/main/captureit_2-16-2025_at_16-45-09.png)
 
 World Cup Database
 Instructions
